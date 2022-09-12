@@ -1,6 +1,6 @@
 //Take values of length and breadth of a rectangle from user and check if it is square or not.
 import java.util.*;
-public class Program1 {
+public class Pr1 {
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         int l=sc.nextInt();
